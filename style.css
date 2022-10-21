@@ -1,7 +1,16 @@
 body{
-background-color: aquamarine;
+background-color: rgb(189, 221, 210);
+background: linear-gradient(45deg, rgba(2,0,36,1) 0%, rgba(110,9,121,0.8379726890756303) 29%, rgba(0,212,255,1) 100%);
+
+
 }
 
-h1} 
-color:purple;
+.volei{
+    width: 40%;
+    margin-left: 30%;
+
+}
+h2{
+    color: rgb(80, 14, 141);
+    text-align: center;
 }
