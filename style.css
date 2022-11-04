@@ -1,0 +1,33 @@
+nav{
+
+    font-size: 30px;
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 29%;
+}
+
+
+body{
+background-color: rgb(171, 211, 197);
+background: linear-gradient(45deg, rgba(2,0,36,1) 0%, rgba(129, 167, 182, 0.838) 29%, rgba(0,212,255,1) 100%);
+
+}
+
+.Volei-main {
+    width: 30%; 
+    margin-left: 33%;
+}
+.volei{
+    width: 40%;
+    margin-left: 30%;
+
+
+
+}
+h2{
+    color: rgb(19, 9, 9);
+    text-align: center;
+}
+
